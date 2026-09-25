@@ -1,4 +1,4 @@
-import numpy as input
+import numpy as np
 
 def pad_sequences(seqs, pad_value=0, max_len=None) :
     """"
